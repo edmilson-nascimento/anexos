@@ -1,7 +1,5 @@
-# anexos
+# Anexos
  Utilização de solução standard de anexos
-
-# External Debug / SPROXY Config
 
 ![N|Solid](img/sap-abap.jpeg)
 
