@@ -2,8 +2,10 @@
  Utilização de solução standard de anexos
 
 ![Static Badge](https://img.shields.io/badge/development-abap-blue)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/debug)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/anexos)
 ![Static Badge](https://img.shields.io/badge/murilo.borges-abap-lime)
+
+![Static Badge](https://img.shields.io/badge/paulo.amor-abap-darkgrey)
 
 
 ~~eu sempre me esqueço das configurações para debug externo e tambem update task, enfim, vou salvar o que Murilo me mostrou para deixar de perguntar 2x vezes por mês a mesma coisa...~~
