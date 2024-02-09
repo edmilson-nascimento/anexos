@@ -11,7 +11,7 @@
 ~~O Mumu que deveria fazer isso~~
 
 Em construção.
-Referenter a classe `
+Referenter a classe standard `CL_GOS_ATTACHMENTS`.
 
 > Importantes coisas aqui...
 
