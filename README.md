@@ -1,8 +1,6 @@
 # Anexos
  Utilização de solução standard de anexos
 
-![N|Solid](img/sap-abap.jpeg)
-
 ![Static Badge](https://img.shields.io/badge/development-abap-blue)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/debug)
 ![Static Badge](https://img.shields.io/badge/murilo.borges-abap-lime)
@@ -16,4 +14,6 @@ Existem configurações diferentes para itens diferentes. Um deles para `debug e
 
 Para debug de popup, é possivel arrastar o arquivo para a janela e isso ja vai iniciar como se tivesse usado o `/H`. É possivel encontrar o arquivo [aqui](/files/debug.sap).
 
-## Debug External
+## .
+
+.
