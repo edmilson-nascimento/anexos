@@ -22,6 +22,9 @@ Os objetos devem ser configurados para serem usados com o link. Para esta soluç
 
 ### Transação
 Adicionar o tipo de documento pela transação `TOADV`.
+1- Ir a tcode `SM30` e entrar com a tabela e clicar em **Customizing** › **Continuar sem indicação do projeto**.
+
+›
 
 ### Transação
 
