@@ -12,6 +12,7 @@
 
 Em construção.
 Referenter a classe standard `CL_GOS_ATTACHMENTS`.
+Eu acho que essa classe tambem pode ajudar com algumas cenas: `CL_GOS_SRV_ATTACHMENT_LIST`
 
 > Importantes coisas aqui...
 
