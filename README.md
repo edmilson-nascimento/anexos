@@ -43,3 +43,7 @@ Adicionar o tipo de documento pela transação `TOADV`.
 /nOAC3
 
 .
+
+
+ZJMP_TST
+ZSAF
