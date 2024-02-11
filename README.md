@@ -22,9 +22,21 @@ Os objetos devem ser configurados para serem usados com o link. Para esta soluç
 
 ### Transação
 Adicionar o tipo de documento pela transação `TOADV`.
-1- Ir a tcode `SM30` e entrar com a tabela e clicar em **Customizing** › **Continuar sem indicação do projeto**.
 
-›
+1. Ir a tcode `SM30` e entrar com a tabela e clicar em **Customizing** › **Continuar sem indicação do projeto**.
+
+![alt text](img/SM30-01.png)
+
+
+2. Escolher a opção  **SAP ArchiveLink** para *Processar tipos de documento*.
+
+![alt text](img/SM30-02.png)
+
+3. Depois, **Processar tipos de documento**.
+![alt text](img/SM30-03.png)
+
+4. Então, basta informar os campos solicitados e salvar em uma request os dados esperados.
+![alt text](img/SM30-04.png)
 
 ### Transação
 
