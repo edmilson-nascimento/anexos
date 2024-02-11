@@ -16,7 +16,6 @@ Eu acho que essa classe tambem pode ajudar com algumas cenas: `CL_GOS_SRV_ATTACH
 
 > Importantes coisas aqui...
 
-
 ## Configuracão
 Os objetos devem ser configurados para serem usados com o link. Para esta solução sera criado um objeto que atende mais de um tipo de documento.
 
