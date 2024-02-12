@@ -14,7 +14,7 @@ Em construção.
 Referenter a classe standard `CL_GOS_ATTACHMENTS`.
 Eu acho que essa classe tambem pode ajudar com algumas cenas: `CL_GOS_SRV_ATTACHMENT_LIST`
 
-> Importantes coisas aqui...
+> Alguns dos exemplos encontrados sugerem a classe `CL_GOS_ATTACHMENT_LIST` para lista os anexos, mas essa classe é obsoleta e é recomendado usar a classe `CL_ATTACHMENT_LIST`.
 
 ## Configuracão
 Os objetos devem ser configurados para serem usados com o link. Para esta solução sera criado um objeto que atende mais de um tipo de documento.
