@@ -43,6 +43,3 @@ Adicionar o tipo de documento pela transação `TOADV`.
 
 .
 
-
-ZJMP_TST
-ZSAF
